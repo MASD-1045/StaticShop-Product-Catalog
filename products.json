@@ -4,12 +4,7 @@
     "version": "616925cc"
   },
   "products": [
-    {"id": "prod-616925cc-001",
-    "name": "Pro Item 1",
-    "category": "electronics",
-    "price": 154.86,
-    "stock": 24,
-    "rating": 4.8},
+    {"id": "prod-616925cc-001","name": "Pro Item 1","category": "electronics","price": 154.86,"stock": 24,"rating": 4.8},
     {"id": "prod-616925cc-002","name": "Pro Item 2","category": "books","price": 497.8,"stock": 160,"rating": 4.7},
     {"id": "prod-616925cc-003","name": "Basic Item 3","category": "clothing","price": 290.89,"stock": 135,"rating": 1.7},
     {"id": "prod-616925cc-004","name": "Elite Item 4","category": "sports","price": 85.96,"stock": 57,"rating": 1.5},
@@ -34,19 +29,19 @@
   "aggregations": {
     "electronics": {
       "count": 5,
-      "inventoryValue": 190902.58
+      "inventoryValue": 142590.95
     },
     "books": {
       "count": 6,
-      "inventoryValue": 160708.29
+      "inventoryValue": 190118.84
     },
     "clothing": {
       "count": 2,
-      "inventoryValue": 41488.35
+      "inventoryValue": 44165.67
     },
     "sports": {
       "count": 4,
-      "inventoryValue": 29961.28
+      "inventoryValue": 27564.58
     },
     "home": {
       "count": 4,
