@@ -27,6 +27,22 @@
     {"id": "prod-616925cc-021","name": "Pro Item 21","category": "home","price": 303.87,"stock": 175,"rating": 3.9}
   ],
   "aggregations": {
+    "electronics": {
+      "count": 5,
+      "inventoryValue": 190902.58
+    },
+    "books": {
+      "count": 6,
+      "inventoryValue": 160708.29
+    },
+    "clothing": {
+      "count": 2,
+      "inventoryValue": 41488.35
+    },
+    "sports": {
+      "count": 4,
+      "inventoryValue": 29961.28
+    },
     "home": {
       "count": 4,
       "inventoryValue": 96434.24
